@@ -7,7 +7,7 @@ const projects = [
     description: "A responsive job portal enabling users to register, log in, and manage job postings with secure role-based authentication.",
     image: "/projects/project1.png",
     tags: ["React", "Spring Boot", "REST API", "Spring Data JPA", "Spring JWT", "SQL"],
-    demoUrl: "https://online-job-portal-frontend-vege.vercel.app",
+    demoUrl: "#",
     githubUrl: "https://github.com/aniket-soni03/online-job-portal-fullstack.git",
   },
   {
@@ -25,7 +25,7 @@ const projects = [
     description: "A real-time dashboard that displays the latest news and weather updates using public APIs with a clean and responsive interface.",
     image: "/projects/project3.png",
     tags: ["React", "HTML", "CSS", "Fetch API"],
-    demoUrl: "#",
+    demoUrl: "https://news-weather-dashboard-aniket.vercel.app",
     githubUrl: "https://github.com/aniket-soni03/News-Weather-Dashboard.git",
   },
 ];
