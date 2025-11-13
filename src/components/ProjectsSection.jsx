@@ -26,7 +26,7 @@ const projects = [
     image: "/projects/project3.png",
     tags: ["React", "HTML", "CSS", "Fetch API"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/aniket-soni03/News-Weather-Dashboard.git",
   },
 ];
 
